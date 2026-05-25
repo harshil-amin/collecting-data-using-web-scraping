@@ -1,3 +1,3 @@
 # Collecting Data Using Web-scraping
 
-This project is designed to automate the collection of data from web sources using Python
+This project is designed as an lab for cousera to collect data from web sources using Python
